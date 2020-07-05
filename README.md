@@ -6,5 +6,3 @@ If a circle disappears before you click it you will lose, all while avoiding the
 There is gold coins that will give you +5 points but it is okay to not collect them. They are simply a bonus.
 
 If a bomb is hit your entire score is immediately cut in half.
-
-![Alt text](/Users/ryanthomas/Desktop/IMG_7292.jpg?raw=true "Title")
